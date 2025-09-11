@@ -174,3 +174,4 @@ seo:
   - MEDIATIONES BIENNALES PARIETES DELETI catalogus, ISBN 978-83-931052-7-4, Urbs P., PL
 - ### 2009
   - MASTACTVA (ARS) periodicon, 9'2009, articulus de tempore et spatio, ISSN 0208-2551, Urbs M., BY
+-
