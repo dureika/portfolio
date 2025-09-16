@@ -11,11 +11,12 @@ seo:
   - Urbs Lorem, Terra
 - ###
   - Vivit et operatur in Amstelodamo, NL
-    Praeceptor in schola artis annis LXXXVI–XCI studia fundamentalia peregit; magistris variis adfuit et seminaria frequentavit. Postea in Academia Artium Mediaticarum annis 00–05 cursum perrexit sub doctoribus variis disciplinae artis et theoriae.
-    In exeunte decennio octavo, dum discipulus erat, cum pellicula et animatione graduatim experiri coepit, quae in coetualibus actionibus atque performationibus adhibebantur. Eodem tempore cum sodalibus musicis gregem parvum alternativum condidit. Ab initio annorum nonagesimorum variis expositionibus interfuit et paravit, ac paulatim a pictura ad opera video et performativa se convertit; inde a fine annorum nonagesimorum plurimis festivalibus internationalibus adfuit.
-    Ab anno 2005 in incepto collegiali continuato cooperatus est cum variis auctoribus et curatoribus sub titulo generico, cuius scopus communis et experimentalis fuit.
-    Ab anno 2012 etiam cum aliis sodalibus in serie investigationum artisticarum cooperatur, quarum titulus ludicrus et modulatus est, ad methodos et praxim explorandam.
-    Nuperius operam dedit mutationibus investigandis quas media electronica et impetus technologicus in praxim artisticam inferunt, quaerens quomodo instrumenta digitalia sensum, materiam et processum transformant.
+Praeceptor in schola artis annis LXXXVI–XCI studia fundamentalia peregit; magistris variis adfuit et seminaria frequentavit. Postea in Academia Artium Mediaticarum annis 00–05 cursum perrexit sub doctoribus variis disciplinae artis et theoriae.
+In exeunte decennio octavo, dum discipulus erat, cum pellicula et animatione graduatim experiri coepit, quae in coetualibus actionibus atque performationibus adhibebantur. Eodem tempore cum sodalibus musicis gregem parvum alternativum condidit. Ab initio annorum nonagesimorum variis expositionibus interfuit et paravit, ac paulatim a pictura ad opera video et performativa se convertit; inde a fine annorum nonagesimorum plurimis festivalibus internationalibus adfuit.
+Ab anno 2005 in incepto collegiali continuato cooperatus est cum variis auctoribus et curatoribus sub titulo generico, cuius scopus communis et experimentalis fuit.
+Ab anno 2012 etiam cum aliis sodalibus in serie investigationum artisticarum cooperatur, quarum titulus ludicrus et modulatus est, ad methodos et praxim explorandam.
+Nuperius operam dedit mutationibus investigandis quas media electronica et impetus technologicus in praxim artisticam inferunt, quaerens quomodo instrumenta digitalia sensum, materiam et processum transformant.
+
 
 ## Education
 
@@ -55,7 +56,7 @@ seo:
   - Galeria Artis Temporis, Urbs M., BY, *Collectio In Progressu*
 - ### 2017
   - Fenestra, Laboratorium Experimentorum Artisticorum Urbicorum, Lutetia, FR, *939PIX*
-  - Re\:Voir, Galeria Pellicularum, Lutetia, FR
+  - Re:Voir, Galeria Pellicularum, Lutetia, FR
   - Centrum Artis Temporis, Urbs T., PL, *Albus-Ruber-Albus*
   - Aula Koszyki, Urbs W., PL, *Camouflage*
   - Biennale Mediartis WRO17, Renoma, Urbs Wr., PL, *OS (Operationes Systemicae)*
@@ -174,4 +175,3 @@ seo:
   - MEDIATIONES BIENNALES PARIETES DELETI catalogus, ISBN 978-83-931052-7-4, Urbs P., PL
 - ### 2009
   - MASTACTVA (ARS) periodicon, 9'2009, articulus de tempore et spatio, ISSN 0208-2551, Urbs M., BY
--

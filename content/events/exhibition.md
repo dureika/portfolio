@@ -25,6 +25,3 @@ Conceptus principalis exhibitionis fundatur in actionibus et performationibus Ma
 Themata principalia pro exhibitione selecta sunt, quae artem variam auctoris illustrant et momentum hodiernum servant: Dies Libertatis, Donum Praesidi, Sancti et Dies Festi, Resistentia Civilis, Oppositio Bello.
 
 Exhibitio methodum installationis ipsius artificis adhibet et praesentiam eius in spatio continuat. Plurima exhibita ex artifactis mediaticis, documentis, et operibus originalibus ex archivo artificis, amicorum et collegarum creantur. Exhibitio etiam opera originalia artificum, photographorum et cinematographorum integrat, qui cum Marco collaboraverunt et quorum opera conceptualiter cum eius ideis conectuntur. Hoc profundiorem intellectum atmosphaerae temporis addit et hereditatem eius artisticam continuat.
-
-- s
-- v
