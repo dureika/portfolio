@@ -1,9 +1,9 @@
 ---
 credits: []
-title: ""
+title: Andrei Dureika
 description: artifex / curator / programmator interretialis
 seo:
-  title: Aurelius Valerian CV
+  title: ""
   description: artifex / curator
 ---
 
@@ -20,11 +20,10 @@ seo:
 ## Education
 
 - ### 2000-05
+  - Dsdaasdad 
   - Academia Artium Mediaticarum, Colonia, Germania; cursus sub praesidio professorum selectorum in praxi et theoria
 - ### 1999
   - Academia Artium, Dusseldorpii; auditor hospes in classe magistri insignis
-- ### 1987-91
-  - Collegium Artis Glebov, Urbs Ipsum, Provincia
 - ### 2020
   - Conditor et editor *Cultprotest.me*, suggestus ad resistentiam visualem atque communicationem civicam
 - ### 2017
@@ -40,8 +39,12 @@ seo:
 
 ## Selected Exhibitions
 
-- ### 2025
+- ### 455
   - Spatium Artium Lorem, Urbs D., DE, *Beneficium Europae* (spatium co-curatum)
+  - SSSSsdasdasdasdasdasdsad
+  - Dasdassd asdada *sadsd*
+- ### 567U
+  - Dffasdssd
 - ### 2024
   - Museum Exemplare, Urbs W., PL, *Post Vita*
 - ### 2020

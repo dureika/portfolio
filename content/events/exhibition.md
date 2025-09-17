@@ -9,9 +9,9 @@ credits:
   - role: auctor / curator
     name: Aurelius Valerian
   - role: participantes
-    name: Marcus Aurelius, Claudia Severa (Textura), Quintus Fabius, Gaius
-      Valerius, Julia Prisca, Lucius Seneca, Titus Livius, Publius Ovidius,
-      Cornelia Gracchus, Severus Augustus.
+    name: Marcus Aurelius, Claudia Severa (Textura), Quintus Fabius, Gaius Valerius,
+      Julia Prisca, Lucius Seneca, Titus Livius, Publius Ovidius, Cornelia
+      Gracchus, Severus Augustus.
 ---
 
 ![Exhibition poster](/pu-exhibition.jpg "Tabula Exhibitionis ©AV")
