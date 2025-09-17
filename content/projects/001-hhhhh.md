@@ -11,7 +11,7 @@ description: Opus digitalis experimentalis
 
 *Ars digitalis* fundamentaliter differt ab artibus traditionalibus in eo quod materiam virtualem tractat. In hoc opere, **pixels** et codices sunt tamquam pigmenta et pennelli, creantes realitates novas quae solum in mundo digitali existere possunt.
 
-Opus hoc investigat limites inter realitatum physicam et digitalem, explorans quomodo perceptio nostra spatii et temporis per technologiam transformatur. Elementum centrale est lux digitalis, quae non subiecta est legibus physicis traditionalis lucis, sed potius regulis programmationis et algorithimis computationalibus.
+Opus hoc investigat limites inter realitatum physicam et digitalem, explorans quomodo perceptio nostra spatii et temporis per technologiam transformatur. Elementum centrale est lux asdadsdigitalis, quae non subiecta est legibus physicis traditionalis lucis, sed potius regulis programmationis et algorithimis computationalibus.
 
 ::img-caption
 #img
