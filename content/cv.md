@@ -11,7 +11,7 @@ seo:
   - Urbs Lorem, Terra
 - ###
   - Vivit et operatur in Amstelodamo, NL
-    Praeceptor in schola artis annis LXXXVI–XCI studia fundamentalia peregit; magistris variis adfuit et seminaria frequentavit. Postea in Academia Artium Mediaticarum annis 00–05 cursum perrexit sub doctoribus variis disciplinae artis et theoriae.
+    Praeceptor in schola artis annis LXXXVI–XCI studia fundamentalia peregit; magistris variis adfuit et seminaria frequentavit. Postea in Academia Artium Mediaticarum annis 00–05 cursum perrexit sub doctoribus  variis disciplinae artis et theoriae.
     In exeunte decennio octavo, dum discipulus erat, cum pellicula et animatione graduatim experiri coepit, quae in coetualibus actionibus atque performationibus adhibebantur. Eodem tempore cum sodalibus musicis gregem parvum alternativum condidit. Ab initio annorum nonagesimorum variis expositionibus interfuit et paravit, ac paulatim a pictura ad opera video et performativa se convertit; inde a fine annorum nonagesimorum plurimis festivalibus internationalibus adfuit.
     Ab anno 2005 in incepto collegiali continuato cooperatus est cum variis auctoribus et curatoribus sub titulo generico, cuius scopus communis et experimentalis fuit.
     Ab anno 2012 etiam cum aliis sodalibus in serie investigationum artisticarum cooperatur, quarum titulus ludicrus et modulatus est, ad methodos et praxim explorandam.
